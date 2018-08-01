@@ -4,14 +4,14 @@ var friends = [
         from: "Fight Club",
         "scores": [
             5,
-            1,
             4,
-            4,
-            5,
-            1,
+            3,
             2,
+            1,
             5,
             4,
+            3,
+            2,
             1
         ]
     },
@@ -20,16 +20,16 @@ var friends = [
         name: "Tony",
         from: "The Shining",
         "scores": [
-            5,
-            1,
             4,
-            4,
-            5,
-            1,
+            3,
             2,
+            1,
             5,
             4,
-            1
+            3,
+            2,
+            1,
+            5
         ]
     },
 
@@ -37,16 +37,16 @@ var friends = [
         name: "Charles Herman",
         from: "A Beautiful Mind",
         "scores": [
-            5,
-            1,
-            4,
-            4,
-            5,
-            1,
+            3,
             2,
+            1,
             5,
             4,
-            1
+            3,
+            2,
+            1,
+            4,
+            4
         ]
     },
 
@@ -55,16 +55,16 @@ var friends = [
         name: "Bianca",
         from: "Lars and the Real Girl",
         "scores": [
-            5,
-            1,
-            4,
-            4,
-            5,
-            1,
             2,
+            1,
             5,
             4,
-            1
+            3,
+            2,
+            1,
+            5,
+            4,
+            3
         ]
     },
 
@@ -72,16 +72,16 @@ var friends = [
         name: "Fred",
         from: "Drop Dead Fred",
         "scores": [
-            5,
             1,
-            4,
+            2,
+            3,
             4,
             5,
             1,
             2,
-            5,
+            3,
             4,
-            1
+            5
         ]
     },
 
